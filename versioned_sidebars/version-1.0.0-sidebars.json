@@ -1,0 +1,31 @@
+{
+  "tutorialSidebar": [
+    "intro",
+    {
+      "type": "category",
+      "label": "Installation",
+      "items": [
+        "install/prerequisites",
+        "install/installation"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Commandes",
+      "items": [
+        "commands/init",
+        "commands/build",
+        "commands/clean"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Configuration",
+      "items": [
+        "config/config-file",
+        "config/options"
+      ]
+    },
+    "faq"
+  ]
+}
