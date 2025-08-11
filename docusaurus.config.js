@@ -114,7 +114,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/VictorDvs/Fastpack/edit/master',
+            href: 'https://github.com/VictorDvs/Fastpack',
             label: 'GitHub',
             position: 'right',
           },
@@ -158,7 +158,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/VictorDvs/Fastpack/edit/master',
+                href: 'https://github.com/VictorDvs/Fastpack',
               },
             ],
           },
