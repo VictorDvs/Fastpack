@@ -56,7 +56,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/VictorDvs/Fastpack/edit/main/website',
+            'https://github.com/VictorDvs/Fastpack/edit/master',
         },
         blog: {
           showReadingTime: true,
@@ -67,7 +67,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/VictorDvs/Fastpack/edit/main/website',
+            'https://github.com/VictorDvs/Fastpack/edit/master',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -114,7 +114,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/VictorDvs/Fastpack/edit/main/website',
+            href: 'https://github.com/VictorDvs/Fastpack/edit/master',
             label: 'GitHub',
             position: 'right',
           },
@@ -158,7 +158,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/VictorDvs/Fastpack/edit/main/website',
+                href: 'https://github.com/VictorDvs/Fastpack/edit/master',
               },
             ],
           },
